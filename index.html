@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+	<title>Page Title</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+	<script src='main.js'></script>
+	<style>
+		body {max-width:800px; margin:auto;}
+		* {font-size:9pt;}
+		h1 {font-size:24pt; margin-top:20px; margin-bottom:20px;}
+		h1:nth-of-type(2) {margin-top:80px;}
+		svg+div{margin-left:25vw;}
+		#observablehq-chart-5e843dc5 svg+div {margin-top:50px!important;}
+		#observablehq-chart-72367a78 svg+div{margin-top:790px!important;}
+	</style>
+</head>
+<body>
+
+	<h1>Histoire de la philosophie antique et médiévale</h1>
+
+	<div id="observablehq-viewof-sorting-5e843dc5"></div>
+	<div id="observablehq-chart-5e843dc5"></div>
+	
+	<script type="module">
+	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+	import define from "https://api.observablehq.com/@eyssette/histoire-de-la-philosophie-antique-et-medievale.js?v=3";
+	new Runtime().module(define, name => {
+	  if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-5e843dc5"));
+	  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-5e843dc5"));
+	});
+	</script>
+
+<h1>Histoire de la philosophie moderne et contemporaine</h1>
+
+<div id="observablehq-viewof-sorting-72367a78"></div>
+<div id="observablehq-chart-72367a78"></div>
+<p>Credit: <a href="https://observablehq.com/@eyssette/histoire-de-la-philosophie-moderne-et-contemporaine">Histoire de la philosophie moderne et contemporaine by Cédric Eyssette</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@eyssette/histoire-de-la-philosophie-moderne-et-contemporaine.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-72367a78"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-72367a78"));
+});
+</script>
+
+</body>
+</html>
