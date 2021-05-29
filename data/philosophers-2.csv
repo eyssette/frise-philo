@@ -1,5 +1,6 @@
 author,start,end,category
 Machiavel,1469,1527,Philosophie moderne
+Jean Bodin,1529,1593,Philosophie moderne
 La Boétie,1530,1563,Philosophie moderne
 Montaigne,1533,1592,Philosophie moderne
 Francisco Suárez,1548,1617,Philosophie moderne
@@ -17,26 +18,26 @@ Malebranche,1638,1715,Philosophie moderne XVIIe
 Leibniz,1646,1716,Philosophie moderne XVIIe
 Pierre Bayle,1647,1706,Philosophie moderne XVIIe
 Giambattista Vico,1668,1744,Philosophie moderne XVIIIe
-Lord Shaftesbury,1671,1713,Philosophie moderne XVIIIe
+Lord Shaftesbury,1671,1713,Philosophie anglais XVIIIe
 Christian Wolff,1679,1754,Philosophie allemande XVIIIe-XIXe
-Berkeley,1685,1753,Philosophie moderne XVIIIe
-Montesquieu,1689,1755,Philosophie moderne XVIIIe
-Voltaire,1694,1778,Philosophie moderne XVIIIe
-Francis Hutcheson,1694,1746,Philosophie moderne XVIIIe
-La Mettrie,1709,1751,Philosophie moderne XVIIIe
-Thomas Reid,1710,1796,Philosophie moderne XVIIIe
-Hume,1711,1776,Philosophie moderne XVIIIe
-Rousseau,1712,1778,Philosophie moderne XVIIIe
-Diderot,1713,1784,Philosophie moderne XVIIIe
+Berkeley,1685,1753,Philosophie anglais XVIIIe
+Montesquieu,1689,1755,Philosophie française XVIIIe
+Voltaire,1694,1778,Philosophie française XVIIIe
+Francis Hutcheson,1694,1746,Philosophie anglais XVIIIe
+La Mettrie,1709,1751,Philosophie française XVIIIe
+Thomas Reid,1710,1796,Philosophie anglais XVIIIe
+Hume,1711,1776,Philosophie anglais XVIIIe
+Rousseau,1712,1778,Philosophie française XVIIIe
+Diderot,1713,1784,Philosophie française XVIIIe
 Baumgarten,1714,1762,Philosophie allemande XVIIIe-XIXe
-Condillac,1714,1780,Philosophie moderne XVIIIe
-D'Alembert,1717,1783,Philosophie moderne XVIIIe
-Adam Smith,1723,1790,Philosophie moderne XVIIIe
-D'Holbach,1723,1789,Philosophie moderne XVIIIe
+Condillac,1714,1780,Philosophie française XVIIIe
+D'Alembert,1717,1783,Philosophie française XVIIIe
+Adam Smith,1723,1790,Philosophie anglais XVIIIe
+D'Holbach,1723,1789,Philosophie française XVIIIe
 Kant,1724,1804,Philosophie allemande XVIIIe-XIXe
 Lessing,1729,1781,Philosophie allemande XVIIIe-XIXe
 Moses Mendelssohn,1729,1786,Philosophie allemande XVIIIe-XIXe
-Condorcet,1743,1794,Philosophie moderne XVIIIe
+Condorcet,1743,1794,Philosophie française XVIIIe
 Johann Gottfried Herder,1744,1803,Philosophie allemande XVIIIe-XIXe
 Bentham,1748,1832,Philosophie sociale et politique XIXe
 Goethe,1749,1832,Philosophie allemande XVIIIe-XIXe
