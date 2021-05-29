@@ -1,15 +1,16 @@
 author,start,end,category
-Anaximandre,-610,-546,Philosophie antique
-Pythagore,-570,-495,Philosophie antique
-Xénophane,-570,-475,Philosophie antique
+Anaximandre,-610,-546,Présocratiques
+Pythagore,-570,-495,Présocratiques
+Xénophane,-570,-475,Présocratiques
 Confucius, -551, -479,Philosophie chinoise
 Sun Tzu, -544, -496,Philosophie chinoise
-Héraclite,-535,-475,Philosophie antique
-Parménide,-515,-450,Philosophie antique
-Anaxagore,-499,-428,Philosophie antique
-Empédocle,-490,-430,Philosophie antique
-Gorgias,-483,-375,Philosophie antique
-Protagoras,-481,-411,Philosophie antique
+Héraclite,-535,-475,Présocratiques
+Parménide,-515,-450,Présocratiques
+Anaxagore,-500,-428,Présocratiques
+Empédocle,-494,-434,Présocratiques
+Zénon d'Élée, -490,-430,Présocratiques
+Gorgias,-483,-375,Présocratiques
+Protagoras,-481,-411,Présocratiques
 Socrate,-470,-399,Philosophie antique
 Démocrite,-460,-370,Philosophie antique
 Platon,-428,-348,Philosophie antique
@@ -18,19 +19,20 @@ Aristote,-384,-322,Philosophie antique
 Mencius,-372,-289,Philosophie chinoise
 Zhuangzi,-369,-288,Philosophie chinoise
 Pyrrhon,-360,-270,Philosophie antique
-Épicure,-341,-270,Philosophie antique
-Zénon d'Élée,-334,-262,Philosophie antique
+Épicure,-341,-270,Épicurisme
+Zénon de Cittium,-334,-262,Stoïcisme
 Xun Zi,-313,-238,Philosophie chinoise
+Chrysippse,-279,-206,Stoïcisme
 Cicéron,-106,-43,Philosophie antique
-Lucrèce,-99,-55,Philosophie antique
-Sénèque,-4,65,Philosophie antique
+Lucrèce,-99,-55,Épicurisme
+Sénèque,-4,65,Stoïcisme
 Anselme,1033,1109,Philosophie médiévale
 Al-Ghazālī,1058,1111,Philosophie arabe médiévale
 Pierre Abélard,1079,1142,Philosophie médiévale
 Averroès,1126,1198,Philosophie arabe médiévale
 Maïmonide,1138,1204,Philosophie médiévale
 Ibn ʿArabi,1165,1240,Philosophie arabe médiévale
-Marc Aurèle,121,180,Philosophie antique
+Marc Aurèle,121,180,Stoïcisme
 Thomas d'Aquin,1225,1274,Philosophie médiévale
 Maître Eckhart,1260,1327,Philosophie médiévale
 Jean Duns Scot,1266,1308,Philosophie médiévale
@@ -43,7 +45,7 @@ Porphyre,232,304,Philosophie antique
 Augustin,354,430,Philosophie antique
 Plutarque,45,120,Philosophie antique
 Boèce,480,525,Philosophie médiévale
-Épictète,50,135,Philosophie antique
+Épictète,50,135,Stoïcisme
 Al-Kindī,801,873,Philosophie arabe médiévale
 Jean Scot Erigène,810,877,Philosophie médiévale
 Al-Fârâbî,872,950,Philosophie arabe médiévale
