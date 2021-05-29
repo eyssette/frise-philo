@@ -7,9 +7,10 @@
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
 	<style>
 		* {font-size:9pt;}
-		p:nth-of-type(1) {text-align:center; margin-top:20px; margin-bottom:40px; font-size:14pt;}
-		h1 {font-size:22pt; margin-top:20px; margin-bottom:20px;}
-		h1:nth-of-type(2) {margin-top:80px;}
+		p:nth-of-type(1) {text-align:center; margin-top:20px; margin-bottom:80px; font-size:14pt;}
+		p a {font-size:14pt;}
+		h1{font-size:26pt; margin-bottom:20px;margin-top:40px; text-align:center;}
+		h2{font-size:22pt; margin-bottom:40px;margin-top:100px;}
 		#observablehq-chart-5e843dc5 svg+div {margin-top:50px!important;}
 		#observablehq-chart-72367a78 svg+div{margin-top:1000px!important;}	
 		#observablehq-chart-5615a6aa svg+div{margin-top:2150px!important;}
@@ -23,9 +24,10 @@
 </head>
 <body>
 
-	<p>Histoire de la philosophie : une frise chronologique. Outil créé par <a href="https://eyssette.github.io/">Cédric Eyssette</a></p>
+	<h1>Histoire de la philosophie : frises chronologiques</h1>
+	<p>Outil créé par <a href="https://eyssette.github.io/">Cédric Eyssette</a>. Les sources sont disponibles sur <a href="https://github.com/eyssette/frise-philo">Github</a></p>
 
-	<h1>Histoire de la philosophie antique et médiévale</h1>
+	<h2>1/ Histoire de la philosophie antique et médiévale</h2>
 
 	<div id="observablehq-viewof-sorting-5e843dc5"></div>
 	<div id="observablehq-chart-5e843dc5"></div>
@@ -39,7 +41,7 @@
 	});
 	</script>
 
-<h1>Histoire de la philosophie moderne et contemporaine, avant le XXe siècle</h1>
+<h2>2/ Histoire de la philosophie moderne et contemporaine, avant le XXe siècle</h2>
 
 <div id="observablehq-viewof-sorting-72367a78"></div>
 <div id="observablehq-chart-72367a78"></div>
@@ -53,7 +55,7 @@ new Runtime().module(define, name => {
 });
 </script>
 
-<h1>Histoire de la philosophie contemporaine, le XXe siècle (1) : avant 1925 (date de naissance)</h1>
+<h2>3/ Histoire de la philosophie contemporaine, le XXe siècle (1) : avant 1925 (date de naissance)</h2>
 
 <div id="observablehq-viewof-sorting-5615a6aa"></div>
 <div id="observablehq-chart-5615a6aa"></div>
@@ -67,11 +69,10 @@ new Runtime().module(define, name => {
 });
 </script>
 
-<h1>Histoire de la philosophie contemporaine, le XXe siècle (2) : à partir de 1925 (date de naissance)</h1>
+<h2>4/ Histoire de la philosophie contemporaine, le XXe siècle (2) : à partir de 1925 (date de naissance)</h2>
 
 <div id="observablehq-viewof-sorting-a727964d"></div>
 <div id="observablehq-chart-a727964d"></div>
-<p>Credit: <a href="https://observablehq.com/@eyssette/histoire-de-la-philosophie-contemporaine-le-xxe-siecle-1-a-p">Histoire de la philosophie contemporaine, le XXe siècle (1) : à partir de 1925 (date de naissance) by Cédric Eyssette</a></p>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
