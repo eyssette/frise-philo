@@ -24,47 +24,47 @@ Kant,1724,1804,Philosophie allemande XVIIIe-XIXe
 Condorcet,1743,1794,Philosophie moderne XVIIIe
 Bentham,1748,1832,Philosophie sociale et politique XIXe
 Fichte,1762,1814,Philosophie allemande XVIIIe-XIXe
-Maine de Biran,1766,1824,Philosophie contemporaine
+Maine de Biran,1766,1824,Philosophie XVIIIe-XIXe
 Benjamin Constant,1767,1830,Philosophie sociale et politique XIXe
 Hegel,1770,1831,Philosophie allemande XVIIIe-XIXe
 Schopenhauer,1788,1860,Philosophie allemande XVIIIe-XIXe
-Auguste Comte,1798,1857,Philosophie contemporaine
-Cournot,1801,1877,Philosophie contemporaine
-Emerson,1803,1882,Philosophie contemporaine
+Auguste Comte,1798,1857,Philosophie XVIIIe-XIXe
+Cournot,1801,1877,Philosophie XVIIIe-XIXe
+Emerson,1803,1882,Philosophie XVIIIe-XIXe
 Feuerbach,1804,1872,Philosophie allemande XVIIIe-XIXe
 Tocqueville,1805,1859,Philosophie sociale et politique XIXe
 Stirner,1806,1856,Philosophie allemande XVIIIe-XIXe
 John Stuart Mill,1806,1873,Philosophie sociale et politique XIXe
 Proudhon,1809,1865,Philosophie sociale et politique XIXe
-Kierkegaard,1813,1855,Philosophie contemporaine
+Kierkegaard,1813,1855,Philosophie XVIIIe-XIXe
 Bakounine,1814,1876,Philosophie sociale et politique XIXe
 Marx,1818,1883,Philosophie sociale et politique XIXe
 Engels,1820,1895,Philosophie sociale et politique XIXe
-Dilthey,1833,1911,Philosophie contemporaine
-Brentano,1838,1917,Philosophie contemporaine
-Peirce,1839,1914,Philosophie contemporaine
-William James,1842,1910,Philosophie contemporaine
-Nietzsche,1844,1900,Philosophie contemporaine
+Dilthey,1833,1911,Philosophie XIXe-XXe
+Brentano,1838,1917,Philosophie XIXe-XXe
+Peirce,1839,1914,Philosophie XIXe-XXe
+William James,1842,1910,Philosophie XIXe-XXe
+Nietzsche,1844,1900,Philosophie XIXe-XXe
 Frege,1848,1925,Philosophie analytique
-Freud,1856,1939,Philosophie contemporaine
-Simmel,1858,1918,Philosophie contemporaine
-Husserl,1859,1938,Philosophie contemporaine
+Freud,1856,1939,Philosophie XIXe-XXe
+Simmel,1858,1918,Philosophie XIXe-XXe
+Husserl,1859,1938,Philosophie XIXe-XXe
 Bergson,1859,1941,Philosophie française XXe
-Dewey,1859,1952,Philosophie contemporaine
+Dewey,1859,1952,Philosophie XIXe-XXe
 Duhem,1861,1916,Philosophie française XXe
-Max Weber,1864,1920,Philosophie contemporaine
+Max Weber,1864,1920,Philosophie XIXe-XXe
 Alain,1868,1951,Philosophie française XXe
 Russell,1872,1970,Philosophie analytique
 Bachelard,1884,1962,Philosophie française XXe
 Wittgenstein,1889,1951,Philosophie analytique
-Heidegger,1889,1976,Philosophie contemporaine
+Heidegger,1889,1976,Philosophie XXe
 Carnap,1891,1970,Philosophie analytique
 Marcuse,1898,1979,Philosophie sociale et politique XXe
 Leo Strauss,1899,1973,Philosophie sociale et politique XXe
 Hayek,1899,1992,Philosophie sociale et politique XXe
 Gilbert Ryle,1900,1976,Philosophie analytique
-Hans-Georg Gadamer,1900,2002,Philosophie contemporaine
-Karl Popper,1902,1994,Philosophie contemporaine
+Hans-Georg Gadamer,1900,2002,Philosophie XXe
+Karl Popper,1902,1994,Philosophie XXe
 Georges Canguilhem,1904,1995,Philosophie française XXe
 Jean-Paul Sartre,1905,1980,Philosophie française XXe
 Emmanuel Levinas,1906,1995,Philosophie française XXe
@@ -75,14 +75,14 @@ Willard Van Orman Quine,1908,2000,Philosophie analytique
 Claude Lévi-Strauss,1908,2009,Philosophie française XXe
 Albert Camus,1913,1960,Philosophie française XXe
 John Rawls,1921,2002,Philosophie sociale et politique XXe
-Thomas Kuhn,1922,1996,Philosophie contemporaine
-Paul Feyerabend,1924,1994,Philosophie contemporaine
+Thomas Kuhn,1922,1996,Philosophie XXe
+Paul Feyerabend,1924,1994,Philosophie XXe
 Michel Foucault,1926,1984,Philosophie française XXe
 Hilary Putnam,1926,2016,Philosophie analytique
 Jean Baudrillard,1929,2007,Philosophie française XXe
 Jürgen Habermas,1929,,Philosophie sociale et politique XXe
 Pierre Bourdieu,1930,2002,Philosophie française XXe
-Richard Rorty,1931,2007,Philosophie contemporaine
+Richard Rorty,1931,2007,Philosophie XXe
 Charles Taylor,1931,,Philosophie sociale et politique XXe
 John Searle,1932,,Philosophie analytique
 Robert Nozick,1938,2002,Philosophie sociale et politique XXe
@@ -90,8 +90,8 @@ Daniel Dennett,1942,,Philosophie analytique
 Peter Singer,1946,,Philosophie morale XXe
 Axel Honneth,1949,,Philosophie sociale et politique XXe
 Ruwen Ogien,1949,2017,Philosophie analytique
-Hans Jonas,1903,1993,Philosophie contemporaine
-Karl Jaspers,1883,1969,Philosophie contemporaine
+Hans Jonas,1903,1993,Philosophie XXe
+Karl Jaspers,1883,1969,Philosophie XXe
 René Girard,1923,2015,Philosophie française XXe
 Amartya Sen,1933,,Philosophie sociale et politique XXe
 Marcel Mauss,1872,1950,Philosophie française XXe
@@ -101,7 +101,7 @@ Simone Weil,1909,1943,Philosophie française XXe
 Jeanne Hersch,1910,2000,Philosophie française XXe
 Paul Ricœur,1913,2005,Philosophie française XXe
 Elizabeth Anscombe,1919,2001,Philosophie analytique
-Iris Murdoch,1919,1999,Philosophie contemporaine
+Iris Murdoch,1919,1999,Philosophie XXe
 Gilbert Simondon,1924,1989,Philosophie française XXe
 Gilles Deleuze,1925,1995,Philosophie française XXe
 Georges Bataille,1897,1962,Philosophie française XXe
@@ -175,11 +175,11 @@ Moritz Schlick,1882,1936,Philosophie analytique
 Otto Neurath,1882,1945,Philosophie analytique
 Carl Gustav Hempel,1905,1997,Philosophie analytique
 Bas van Fraassen,1941,,Philosophie analytique
-Ernst Cassirer,1874,1945,Philosophie contemporaine
-Adolf Grünbaum,1923,2018,Philosophie contemporaine
+Ernst Cassirer,1874,1945,Philosophie XXe
+Adolf Grünbaum,1923,2018,Philosophie XXe
 Nelson Goodman,1906,1998,Philosophie analytique
-Arthur Danto,1924,2013,Philosophie contemporaine
-Stanley Cavell,1926,2018,Philosophie contemporaine
+Arthur Danto,1924,2013,Philosophie XXe
+Stanley Cavell,1926,2018,Philosophie XXe
 David Chalmers,1966,,Philosophie analytique
 Tyler Burge,1946,,Philosophie analytique
 Richard Swinburne,1934,,Philosophie analytique
@@ -201,7 +201,7 @@ Michael Dummett,1925,2011,Philosophie analytique
 Cora Diamond,1937,,Philosophie analytique
 Jonathan Dancy,1946,,Philosophie analytique
 Charles Travis,1943,,Philosophie analytique
-Julia Annas,1946,,Philosophie contemporaine
+Julia Annas,1946,,Philosophie XXe
 Robert Audi,1941,,Philosophie analytique
 Ned Block,1942,,Philosophie analytique
 Paul Boghossian,1957,,Philosophie analytique
@@ -222,9 +222,9 @@ Peter Carruthers,1952,,Philosophie analytique
 Craig Callender,1968,,Philosophie analytique
 J. M. E. McTaggart,1866,1925,Philosophie analytique
 Peter Geach,1916,2013,Philosophie analytique
-Henry Sidgwick,1838,1900,Philosophie contemporaine
+Henry Sidgwick,1838,1900,Philosophie XXe
 J. J. C. Smart,1920,2012,Philosophie analytique
-Francis Herbert Bradley,1846,1924,Philosophie contemporaine
+Francis Herbert Bradley,1846,1924,Philosophie XXe
 T. M. Scanlon,1940,,Philosophie analytique
 Christine Korsgaard,1952,,Philosophie morale XXe
 Crispin Wright,1942,,Philosophie analytique
