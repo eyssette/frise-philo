@@ -12,6 +12,7 @@
 		h1:nth-of-type(2) {margin-top:80px;}
 		#observablehq-chart-5e843dc5 svg+div {margin-top:50px!important;}
 		#observablehq-chart-72367a78 svg+div{margin-top:1000px!important;}	
+		#observablehq-chart-5615a6aa svg+div{margin-top:4000px!important;}	
 		@media only screen and (min-width: 1000px) {
 			body {max-width:800px; margin:auto;}
 			svg+div{margin-left:25vw;}
@@ -37,7 +38,7 @@
 	});
 	</script>
 
-<h1>Histoire de la philosophie moderne et contemporaine</h1>
+<h1>Histoire de la philosophie moderne et contemporaine, avant le XXe siècle</h1>
 
 <div id="observablehq-viewof-sorting-72367a78"></div>
 <div id="observablehq-chart-72367a78"></div>
@@ -48,6 +49,20 @@ import define from "https://api.observablehq.com/@eyssette/histoire-de-la-philos
 new Runtime().module(define, name => {
   if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-72367a78"));
   if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-72367a78"));
+});
+</script>
+
+<h1>Histoire de la philosophie moderne et contemporaine : le XXe siècle</h1>
+
+<div id="observablehq-viewof-sorting-5615a6aa"></div>
+<div id="observablehq-chart-5615a6aa"></div>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@eyssette/histoire-de-la-philosophie-contemporaine-le-xxe-siecle.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-5615a6aa"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-5615a6aa"));
 });
 </script>
 
