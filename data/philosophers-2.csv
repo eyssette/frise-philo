@@ -1,71 +1,71 @@
-author,start,end,category
-Machiavel,1469,1527,Philosophie moderne
-Jean Bodin,1529,1593,Philosophie moderne
-La Boétie,1530,1563,Philosophie moderne
-Montaigne,1533,1592,Philosophie moderne
-Francisco Suárez,1548,1617,Philosophie moderne
-Francis Bacon,1561,1626,Philosophie moderne
-Hobbes,1588,1679,Philosophie moderne XVIIe
-Gassendi,1592,1655,Philosophie moderne XVIIe
-Descartes,1596,1650,Philosophie moderne XVIIe
-Gabriel Naudé,1600,1653,Philosophie moderne XVIIe
-Antoine Arnauld,1612,1694,Philosophie moderne XVIIe
-Pascal,1623,1662,Philosophie moderne XVIIe
-Pierre Nicole,1625,1695,Philosophie moderne XVIIe
-Locke,1632,1704,Philosophie moderne XVIIe
-Spinoza,1632,1677,Philosophie moderne XVIIe
-Malebranche,1638,1715,Philosophie moderne XVIIe
-Leibniz,1646,1716,Philosophie moderne XVIIe
-Pierre Bayle,1647,1706,Philosophie moderne XVIIe
-Giambattista Vico,1668,1744,Philosophie moderne XVIIIe
-Lord Shaftesbury,1671,1713,Philosophie anglais XVIIIe
-Christian Wolff,1679,1754,Philosophie allemande XVIIIe-XIXe
-Berkeley,1685,1753,Philosophie anglais XVIIIe
-Montesquieu,1689,1755,Philosophie française XVIIIe
-Voltaire,1694,1778,Philosophie française XVIIIe
-Francis Hutcheson,1694,1746,Philosophie anglais XVIIIe
-La Mettrie,1709,1751,Philosophie française XVIIIe
-Thomas Reid,1710,1796,Philosophie anglais XVIIIe
-Hume,1711,1776,Philosophie anglais XVIIIe
-Rousseau,1712,1778,Philosophie française XVIIIe
-Diderot,1713,1784,Philosophie française XVIIIe
-Baumgarten,1714,1762,Philosophie allemande XVIIIe-XIXe
-Condillac,1714,1780,Philosophie française XVIIIe
-Helvétius,1715,1771,Philosophie française XVIIIe
-D'Alembert,1717,1783,Philosophie française XVIIIe
-Adam Smith,1723,1790,Philosophie anglais XVIIIe
-D'Holbach,1723,1789,Philosophie française XVIIIe
-Kant,1724,1804,Philosophie allemande XVIIIe-XIXe
-Lessing,1729,1781,Philosophie allemande XVIIIe-XIXe
-Moses Mendelssohn,1729,1786,Philosophie allemande XVIIIe-XIXe
-Condorcet,1743,1794,Philosophie française XVIIIe
-Johann Gottfried Herder,1744,1803,Philosophie allemande XVIIIe-XIXe
-Bentham,1748,1832,Philosophie sociale et politique XIXe
-Goethe,1749,1832,Philosophie allemande XVIIIe-XIXe
-Reinhold,1757,1823,Philosophie allemande XVIIIe-XIXe
-Schiller,1759,1805,Philosophie allemande XVIIIe-XIXe
-Fichte,1762,1814,Philosophie allemande XVIIIe-XIXe
-Maine de Biran,1766,1824,Philosophie XVIIIe-XIXe
-Benjamin Constant,1767,1830,Philosophie sociale et politique XIXe
-Schleiermacher,1768,1834,Philosophie allemande XVIIIe-XIXe
-Humboldt,1769,1859,Philosophie allemande XVIIIe-XIXe
-Hegel,1770,1831,Philosophie allemande XVIIIe-XIXe
-Novalis,1772,1801,Philosophie allemande XVIIIe-XIXe
-Schlegel,1772,1829,Philosophie allemande XVIIIe-XIXe
-Schelling,1775,1854,Philosophie allemande XVIIIe-XIXe
-Schopenhauer,1788,1860,Philosophie allemande XVIIIe-XIXe
-Auguste Comte,1798,1857,Philosophie XVIIIe-XIXe
-Cournot,1801,1877,Philosophie XIXe
-Emerson,1803,1882,Philosophie XIXe
-Feuerbach,1804,1872,Philosophie allemande XVIIIe-XIXe
-Jacobi,1804,1851,Philosophie allemande XVIIIe-XIXe
-Tocqueville,1805,1859,Philosophie sociale et politique XIXe
-John Stuart Mill,1806,1873,Philosophie sociale et politique XIXe
-Stirner,1806,1856,Philosophie allemande XVIIIe-XIXe
-Proudhon,1809,1865,Philosophie sociale et politique XIXe
-Félix Ravaisson,1813,1900,Philosophie française XIXe-XXe
-Søren Kierkegaard,1813,1855,Philosophie XIXe
-Bakounine,1814,1876,Philosophie sociale et politique XIXe
-Marx,1818,1883,Philosophie sociale et politique XIXe
-Engels,1820,1895,Philosophie sociale et politique XIXe
-Alfred Fouillée, 1838,1912,Philosophie française XIXe-XXe
+author,start,end,category,curriculum
+Machiavel,1469,1527,Philosophie moderne,1
+Jean Bodin,1529,1593,Philosophie moderne,0
+La Boétie,1530,1563,Philosophie moderne,0
+Montaigne,1533,1592,Philosophie moderne,1
+Francisco Suárez,1548,1617,Philosophie moderne,0
+Francis Bacon,1561,1626,Philosophie moderne,1
+Hobbes,1588,1679,Philosophie moderne XVIIe,1
+Gassendi,1592,1655,Philosophie moderne XVIIe,0
+Descartes,1596,1650,Philosophie moderne XVIIe,1
+Gabriel Naudé,1600,1653,Philosophie moderne XVIIe,0
+Antoine Arnauld,1612,1694,Philosophie moderne XVIIe,0
+Pascal,1623,1662,Philosophie moderne XVIIe,1
+Pierre Nicole,1625,1695,Philosophie moderne XVIIe,0
+Locke,1632,1704,Philosophie moderne XVIIe,1
+Spinoza,1632,1677,Philosophie moderne XVIIe,1
+Malebranche,1638,1715,Philosophie moderne XVIIe,1
+Leibniz,1646,1716,Philosophie moderne XVIIe,1
+Pierre Bayle,1647,1706,Philosophie moderne XVIIe,0
+Giambattista Vico,1668,1744,Philosophie moderne XVIIIe,1
+Lord Shaftesbury,1671,1713,Philosophie anglais XVIIIe,0
+Christian Wolff,1679,1754,Philosophie allemande XVIIIe-XIXe,0
+Berkeley,1685,1753,Philosophie anglais XVIIIe,1
+Montesquieu,1689,1755,Philosophie française XVIIIe,1
+Voltaire,1694,1778,Philosophie française XVIIIe,0
+Francis Hutcheson,1694,1746,Philosophie anglais XVIIIe,0
+La Mettrie,1709,1751,Philosophie française XVIIIe,0
+Thomas Reid,1710,1796,Philosophie anglais XVIIIe,0
+Hume,1711,1776,Philosophie anglais XVIIIe,1
+Rousseau,1712,1778,Philosophie française XVIIIe,1
+Diderot,1713,1784,Philosophie française XVIIIe,1
+Baumgarten,1714,1762,Philosophie allemande XVIIIe-XIXe,0
+Condillac,1714,1780,Philosophie française XVIIIe,1
+Helvétius,1715,1771,Philosophie française XVIIIe,0
+D'Alembert,1717,1783,Philosophie française XVIIIe,0
+Adam Smith,1723,1790,Philosophie anglais XVIIIe,1
+D'Holbach,1723,1789,Philosophie française XVIIIe,0
+Kant,1724,1804,Philosophie allemande XVIIIe-XIXe,1
+Lessing,1729,1781,Philosophie allemande XVIIIe-XIXe,0
+Moses Mendelssohn,1729,1786,Philosophie allemande XVIIIe-XIXe,0
+Condorcet,1743,1794,Philosophie française XVIIIe,0
+Johann Gottfried Herder,1744,1803,Philosophie allemande XVIIIe-XIXe,0
+Bentham,1748,1832,Philosophie sociale et politique XIXe,1
+Goethe,1749,1832,Philosophie allemande XVIIIe-XIXe,0
+Reinhold,1757,1823,Philosophie allemande XVIIIe-XIXe,0
+Schiller,1759,1805,Philosophie allemande XVIIIe-XIXe,0
+Fichte,1762,1814,Philosophie allemande XVIIIe-XIXe,0
+Maine de Biran,1766,1824,Philosophie XVIIIe-XIXe,0
+Benjamin Constant,1767,1830,Philosophie sociale et politique XIXe,0
+Schleiermacher,1768,1834,Philosophie allemande XVIIIe-XIXe,0
+Humboldt,1769,1859,Philosophie allemande XVIIIe-XIXe,0
+Hegel,1770,1831,Philosophie allemande XVIIIe-XIXe,1
+Novalis,1772,1801,Philosophie allemande XVIIIe-XIXe,0
+Schlegel,1772,1829,Philosophie allemande XVIIIe-XIXe,0
+Schelling,1775,1854,Philosophie allemande XVIIIe-XIXe,0
+Schopenhauer,1788,1860,Philosophie allemande XVIIIe-XIXe,1
+Auguste Comte,1798,1857,Philosophie XVIIIe-XIXe,1
+Cournot,1801,1877,Philosophie XIXe,1
+Emerson,1803,1882,Philosophie XIXe,0
+Feuerbach,1804,1872,Philosophie allemande XVIIIe-XIXe,1
+Jacobi,1804,1851,Philosophie allemande XVIIIe-XIXe,0
+Tocqueville,1805,1859,Philosophie sociale et politique XIXe,1
+John Stuart Mill,1806,1873,Philosophie sociale et politique XIXe,1
+Stirner,1806,1856,Philosophie allemande XVIIIe-XIXe,0
+Proudhon,1809,1865,Philosophie sociale et politique XIXe,0
+Félix Ravaisson,1813,1900,Philosophie française XIXe-XXe,0
+Søren Kierkegaard,1813,1855,Philosophie XIXe,1
+Bakounine,1814,1876,Philosophie sociale et politique XIXe,0
+Marx,1818,1883,Philosophie sociale et politique XIXe,1
+Engels,1820,1895,Philosophie sociale et politique XIXe,1
+Alfred Fouillée, 1838,1912,Philosophie française XIXe-XXe,0

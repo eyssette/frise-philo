@@ -1,64 +1,64 @@
-author,start,end,category
-Anaximandre,-610,-546,Présocratiques
-Pythagore,-570,-495,Présocratiques
-Xénophane,-570,-475,Présocratiques
-Confucius, -551, -479,Philosophie chinoise
-Sun Tzu, -544, -496,Philosophie chinoise
-Héraclite,-535,-475,Présocratiques
-Parménide,-515,-450,Présocratiques
-Anaxagore,-500,-428,Présocratiques
-Empédocle,-494,-434,Présocratiques
-Zénon d'Élée, -490,-430,Présocratiques
-Gorgias,-483,-375,Présocratiques
-Protagoras,-481,-411,Présocratiques
-Socrate,-470,-399,Philosophie antique
-Mozi,-470,-391,Philosophie chinoise
-Démocrite,-460,-370,Philosophie antique
-Platon,-428,-348,Philosophie antique
-Diogène de Sinope,-413,-323,Cynisme
-Aristote,-384,-322,Philosophie antique
-Mencius,-372,-289,Philosophie chinoise
-Zhuangzi,-369,-288,Philosophie chinoise
-Pyrrhon,-360,-270,Scepticisme antique
-Hipparchia,-350,-280,Cynisme
-Épicure,-341,-270,Épicurisme
-Zénon de Cittium,-334,-262,Stoïcisme
-Xun Zi,-313,-238,Philosophie chinoise
-Han Fei,-280,-233,Philosophie chinoise
-Chrysippe,-279,-206,Stoïcisme
-Cicéron,-106,-43,Philosophie antique
-Lucrèce,-99,-55,Épicurisme
-Sénèque,-4,65,Stoïcisme
-Plutarque,45,120,Philosophie antique
-Épictète,50,135,Stoïcisme
-Marc Aurèle,121,180,Stoïcisme
-Nāgārjuna,150,250,Philosophie indienne
-Sextus Empiricus,160,210,Scepticisme antique
-Plotin,205,270,Philosophie antique
-Porphyre,232,304,Philosophie antique
-Augustin,354,430,Philosophie antique
-Boèce,480,525,Philosophie médiévale
-Dignāga,480,540,Philosophie indienne
-Jean Damascène,675,749,Philosophie médiévale
-Al-Kindī,801,873,Philosophie arabe médiévale
-Jean Scot Erigène,810,877,Philosophie médiévale
-Al-Fârâbî,872,950,Philosophie arabe médiévale
-Avicenne,980,1037,Philosophie médiévale
-Anselme,1033,1109,Philosophie médiévale
-Al-Ghazālī,1058,1111,Philosophie arabe médiévale
-Pierre Abélard,1079,1142,Philosophie médiévale
-Averroès,1126,1198,Philosophie arabe médiévale
-Buridan,1295,1358,Philosophie médiévale
-Zhu Xi,1130,1200,Philosophie chinoise
-Maïmonide,1138,1204,Philosophie médiévale
-Ibn ʿArabi,1165,1240,Philosophie arabe médiévale
-Albert le Grand,1200,1280,Philosophie médiévale
-Bonaventure,1221,1274,Philosophie médiévale
-Thomas d'Aquin,1225,1274,Philosophie médiévale
-Maître Eckhart,1260,1327,Philosophie médiévale
-Jean Duns Scot,1266,1308,Philosophie médiévale
-Guillaume d’Occam,1285,1347,Philosophie médiévale
-John Wyclif,1330,1384,Philosophie médiévale
-Nicolas de Cues,1401,1464,Philosophie médiévale
-Marsile Ficin,1433,1499,Philosophie médiévale
-Pic de la Mirandole,1463,1494,Philosophie médiévale
+author,start,end,category,curriculum
+Anaximandre,-610,-546,Présocratiques,1
+Pythagore,-570,-495,Présocratiques,1
+Xénophane,-570,-475,Présocratiques,1
+Confucius, -551, -479,Philosophie chinoise,0
+Sun Tzu, -544, -496,Philosophie chinoise,0
+Héraclite,-535,-475,Présocratiques,1
+Parménide,-515,-450,Présocratiques,1
+Anaxagore,-500,-428,Présocratiques,1
+Empédocle,-494,-434,Présocratiques,1
+Zénon d'Élée, -490,-430,Présocratiques,1
+Gorgias,-483,-375,Présocratiques,1
+Protagoras,-481,-411,Présocratiques,1
+Socrate,-470,-399,Philosophie antique,0
+Mozi,-470,-391,Philosophie chinoise,0
+Démocrite,-460,-370,Philosophie antique,0
+Platon,-428,-348,Philosophie antique,1
+Diogène de Sinope,-413,-323,Cynisme,0
+Aristote,-384,-322,Philosophie antique,1
+Mencius,-372,-289,Philosophie chinoise,0
+Zhuangzi,-369,-288,Philosophie chinoise,1
+Pyrrhon,-360,-270,Scepticisme antique,0
+Hipparchia,-350,-280,Cynisme,0
+Épicure,-341,-270,Épicurisme,1
+Zénon de Cittium,-334,-262,Stoïcisme,0
+Xun Zi,-313,-238,Philosophie chinoise,0
+Han Fei,-280,-233,Philosophie chinoise,0
+Chrysippe,-279,-206,Stoïcisme,0
+Cicéron,-106,-43,Philosophie antique,1
+Lucrèce,-99,-55,Épicurisme,1
+Sénèque,-4,65,Stoïcisme,1
+Plutarque,45,120,Philosophie antique,0
+Épictète,50,135,Stoïcisme,1
+Marc Aurèle,121,180,Stoïcisme,1
+Nāgārjuna,150,250,Philosophie indienne,1
+Sextus Empiricus,160,210,Scepticisme antique,1
+Plotin,205,270,Philosophie antique,1
+Porphyre,232,304,Philosophie antique,0
+Augustin,354,430,Philosophie antique,1
+Boèce,480,525,Philosophie médiévale,0
+Dignāga,480,540,Philosophie indienne,0
+Jean Damascène,675,749,Philosophie médiévale,0
+Al-Kindī,801,873,Philosophie arabe médiévale,0
+Jean Scot Erigène,810,877,Philosophie médiévale,0
+Al-Fârâbî,872,950,Philosophie arabe médiévale,0
+Avicenne,980,1037,Philosophie médiévale,1
+Anselme,1033,1109,Philosophie médiévale,1
+Al-Ghazālī,1058,1111,Philosophie arabe médiévale,0
+Pierre Abélard,1079,1142,Philosophie médiévale,0
+Averroès,1126,1198,Philosophie arabe médiévale,1
+Buridan,1295,1358,Philosophie médiévale,0
+Zhu Xi,1130,1200,Philosophie chinoise,0
+Maïmonide,1138,1204,Philosophie médiévale,1
+Ibn ʿArabi,1165,1240,Philosophie arabe médiévale,0
+Albert le Grand,1200,1280,Philosophie médiévale,0
+Bonaventure,1221,1274,Philosophie médiévale,0
+Thomas d'Aquin,1225,1274,Philosophie médiévale,1
+Maître Eckhart,1260,1327,Philosophie médiévale,0
+Jean Duns Scot,1266,1308,Philosophie médiévale,0
+Guillaume d’Occam,1285,1347,Philosophie médiévale,1
+John Wyclif,1330,1384,Philosophie médiévale,0
+Nicolas de Cues,1401,1464,Philosophie médiévale,0
+Marsile Ficin,1433,1499,Philosophie médiévale,0
+Pic de la Mirandole,1463,1494,Philosophie médiévale,0
