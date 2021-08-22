@@ -10,6 +10,7 @@
 		p:nth-of-type(1), p:nth-of-type(2) {text-align:center; margin-top:20px; margin-bottom:80px; font-size:14pt;}
 		p a {font-size:14pt;}
 		h1{font-size:26pt; margin-bottom:20px;margin-top:40px; text-align:center;}
+		h2{font-size:22pt; margin-bottom:40px;margin-top:100px;}
 		@media only screen and (min-width: 1000px) {
 			body {max-width:800px; margin:auto;}
 			svg+div{margin-left:25vw;}
@@ -22,14 +23,32 @@
 	<p>Outil créé par <a href="https://eyssette.github.io/">Cédric Eyssette</a>. Les sources sont disponibles sur <a href="https://github.com/eyssette/frise-philo">Github</a>.</p>
 	<p>Vous pouvez aussi accéder à une <a href="index.html">frise chronologique plus générale</a>, avec plus d'auteurs.</p>
 
-	<div id="observablehq-viewof-sorting-2368ae3d"></div>
-<div id="observablehq-chart-2368ae3d"></div>
+
+	<h2>1/ Philosophie antique et médiévale</h2>
+
+	<div id="observablehq-viewof-sorting-3ea72fe0"></div>
+	<div id="observablehq-chart-3ea72fe0"></div>
+	
+	<script type="module">
+	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+	import define from "https://api.observablehq.com/@eyssette/philosophie-antique-et-medievale-frise-chronologique-des.js?v=3";
+	new Runtime().module(define, name => {
+	  if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-3ea72fe0"));
+	  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-3ea72fe0"));
+	});
+	</script>
+
+<h2>2/ Philosophie moderne et contemporaine</h2>
+
+<div id="observablehq-viewof-sorting-97f52b2f"></div>
+<div id="observablehq-chart-97f52b2f"></div>
+
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@eyssette/philosophie-frise-chronologique-des-auteurs-au-programme.js?v=3";
+import define from "https://api.observablehq.com/@eyssette/philosophie-moderne-et-contemporaine-frise-chronologiqu.js?v=3";
 new Runtime().module(define, name => {
-	if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-2368ae3d"));
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-2368ae3d"));
+  if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-97f52b2f"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-97f52b2f"));
 });
 </script>
 
