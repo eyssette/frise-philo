@@ -22,11 +22,13 @@
 	<p>Outil créé par <a href="https://eyssette.github.io/">Cédric Eyssette</a>. Les sources sont disponibles sur <a href="https://github.com/eyssette/frise-philo">Github</a>.</p>
 	<p>Vous pouvez aussi accéder à une <a href="index.html">frise chronologique plus générale</a>, avec plus d'auteurs.</p>
 
+	<div id="observablehq-viewof-sorting-2368ae3d"></div>
 <div id="observablehq-chart-2368ae3d"></div>
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@eyssette/philosophie-frise-chronologique-des-auteurs-au-programme.js?v=3";
 new Runtime().module(define, name => {
+	if (name === "viewof sorting") return new Inspector(document.querySelector("#observablehq-viewof-sorting-2368ae3d"));
   if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-2368ae3d"));
 });
 </script>
